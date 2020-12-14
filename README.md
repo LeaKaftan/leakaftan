@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# NOTES
+https://www.kirenz.com/post/2019-07-20-up-and-running-with-blogdown/#introduction-to-blogdown
+https://bookdown.org/yihui/blogdown/a-quick-example.html
