@@ -1,0 +1,92 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Lea Kaftan"
+theme = "hugo-theme-cactus"
+copyright = "Lea Kaftan, created with Hugo and cactus theme" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+
+
+# summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 2
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching"
+weight = 3
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 4
+
+[[menu.main]]
+name = "Working Papers"
+url = "/workingpapers"
+weight = 5
+
+# [[menu.main]]
+# name = "Software"
+# url = "/software"
+# weight = 6
+
+[[menu.main]]
+name = "Impressum/Datenschutz"
+url = "/impressum"
+weight = 7
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 2
+
+[params]
+
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  # googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+
+  # Home page settings
+  description = "I am a research assistant and PhD student at the Cologne Center for Comparative Politics. I am a big fan of democracy, computational social sciences and data privacy."
+  mainSection = "publications" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = false # default
+
+  [params.comments]
+    enabled = false # default
+    engine = "disqus" # more supported engines will be added.
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/leakaftan"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/Lea23459981"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/lea-kaftan-05971468/"
+  [[params.social]]
+    name = "email"
+    link = "kaftan@wiso.uni-koeln.de"  # no need for "mailto:" in the head
