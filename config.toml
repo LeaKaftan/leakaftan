@@ -1,4 +1,4 @@
-baseURL = "https://leakaftan.github.io/leakaftan/"
+baseURL = "https://leakaftan.github.io/leakaftan/config.toml"
 languageCode = "en-us"
 title = "Lea Kaftan"
 theme = "hugo-theme-cactus"
