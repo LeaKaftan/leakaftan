@@ -1,4 +1,4 @@
-baseURL = "https://objective-archimedes-1c56f7.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Lea Kaftan"
 theme = "hugo-theme-cactus"
