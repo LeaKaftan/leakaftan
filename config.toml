@@ -11,14 +11,14 @@ disqusShortname = "example" # Used when comments is enabled. Cactus will use sit
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "CV"
+url = "/cv"
 weight = 1
 
 [[menu.main]]
 name = "Research"
 url = "/research"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Teaching"
@@ -28,22 +28,17 @@ weight = 3
 [[menu.main]]
 name = "Publications"
 url = "/publications"
-weight = 4
-
-[[menu.main]]
-name = "Working Papers"
-url = "/workingpapers"
-weight = 5
+weight = 3
 
 # [[menu.main]]
 # name = "Software"
 # url = "/software"
-# weight = 6
+# weight = 4
 
 [[menu.main]]
 name = "Impressum/Datenschutz"
 url = "/impressum"
-weight = 7
+weight = 5
 
 [markup]
   [markup.tableOfContents]

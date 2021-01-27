@@ -1,0 +1,5 @@
+I currently work as research assistant in the project ["Rebels in Representative Democracy"](https://cccp.uni-koeln.de/de/research/current-research-projects/rebels-in-representative-democracy-the-appeal-and-consequences-of-political-defection-in-europe) and write my doctoral thesis about "European Citizens' and Parties' Attitudes towards Liberal Democracy", supervised by Prof. André Kaiser and Prof. Sven-Oliver Proksch. I am furthermore affiliated with the research project ["Decentralization and Electoral Geographies"](https://cccp.uni-koeln.de/de/research/current-research-projects/deg-decentralization-and-electoral-geographies-i-ii).
+
+I am originally from Cologne and studied in Argentina, France and Germany. I have previously worked at the University of Duisburg-Essen and the Berlin Social Science Center (WZB). 
+
+You can **download my CV [here](https://cccp.uni-koeln.de/sites/cccp/Team/Kaftan/CV_Kaftan_2020.pdf)** and find a description of my current research projects [here](/research).
