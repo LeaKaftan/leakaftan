@@ -12,7 +12,7 @@ Schwerpunkte und Trends der Vergleichenden Politikwissenschaft in Deutschland (2
 
 [Zeitschrift für Vergleichende Politikwissenschaft](https://link.springer.com/article/10.1007/s12286-017-0366-5)
 
-## Co-autor:
+## Co-author:
 Christoph Mohamad-Klotzbach (University of Würzburg), Susanne Pickel (University of Duisburg-Essen), Lucas Adler (University of Duisburg-Essen), Lea Kaftan (University of Duisburg-Essen) & Lisa Vogt (University of Duisburg-Essen)
 
 
