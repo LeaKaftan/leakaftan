@@ -2,4 +2,4 @@ I currently work as research assistant in the project ["Rebels in Representative
 
 I am originally from Cologne and studied in Argentina, France and Germany. I have previously worked at the University of Duisburg-Essen and the Berlin Social Science Center (WZB). 
 
-You can **download my CV [here](https://cccp.uni-koeln.de/sites/cccp/Team/Kaftan/CV_Kaftan_2020.pdf)** and find a description of my current research projects [here](/research).
+You can **download my CV [here](https://cccp.uni-koeln.de/sites/cccp/Team/Kaftan/CV_Kaftan_20210129.pdf)** and find a description of my current research projects [here](/research).
