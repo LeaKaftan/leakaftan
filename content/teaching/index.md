@@ -24,4 +24,4 @@ title: Teaching
 
 I have additionally supervised and graded Bachelor theses, supervised Master theses and presided several welcome sessions for Bachelor, Master and PhD students. These sessions were designed to introduce the students to each other, their program, to the university and to the city of Cologne.
 
-I am also a [sports trainer for martial arts and yoga](https://www.budo-arts-movements.de/trainer/). 
+I am also a [sports trainer for martial arts and mobility](https://www.budo-arts-movements.de/trainer/). 

@@ -37,12 +37,12 @@ _title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch & Ch
 
 ## Decentralization and Electoral Geographies
 
-The first part of this research project analysed the motives of state-wide parties to decentralize political power and the long-term consequences of political decentralization for fragmentation of the party system and intra-party disputes over public resources. The second part of this research project currently analyses the attention to territorial politics and parties' positions towards issues of territorial politics in newspapers and Parliamentary speeches in the 20th and 21st century UK and Spain. For this project, we gathered extensive data sets of regional election results, regional party positions and newspaper articles. 
+The first part of this research project analysed the motives of state-wide parties to decentralize political power and the long-term consequences of political decentralization for fragmentation of the party system and intra-party disputes over public resources. The second part of this research project currently analyses the attention to territorial politics and parties' positions towards issues of territorial politics in newspapers and parliamentary speeches in the 20th and 21st century UK and Spain. For this project, we gathered extensive data sets of regional election results, regional party positions and newspaper articles. 
 
 This research project has been funded twice by the German Research Foundation (DFG). [Further information and data can be found here.](https://cccp.uni-koeln.de/de/research/current-research-projects/deg-decentralization-and-electoral-geographies-i-ii)
 
 ### Current working papers
 
-"Optimized Dictionaries and the Measurement of Issue Attention across Political Arenas", toghether with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+"Optimized Dictionaries and the Measurement of Issue Attention across Political Arenas", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
