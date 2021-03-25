@@ -9,9 +9,9 @@ This project studies the extent to which European democratic systems are support
 
 ### Current working papers
 
-"Party competition over democracy. Democracy as valence or positional issue in German elections", single authored observational study
+_title hidden, currently under review with the_ Party Politics
 
-"Lip Service to Democracy in Western Europe? Support for and Understandings of Democracy among Authoritarian, Populist and Radical Western Europeans", single authored survey experiment, pre-registered with [OSF](https://osf.io/47xp2/)
+_title hidden, currently under review with the_ American Journal of Political Science
 
 "From liberal to majoritarian democracy. Tolerance for illiberal democracy among dissatisfied or majoritarian democrats", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
