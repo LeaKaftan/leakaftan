@@ -26,7 +26,7 @@ This research project has been funded by the Fritz Thyssen foundation. [Further 
 
 ### Current working papers
 
-_title hidden_, together with Dominik Duell, Sven-Oliver Proksch & Christopher Wratil, _currently under review with the Journal of Politics_
+_title hidden_, together with Dominik Duell, Sven-Oliver Proksch & Christopher Wratil, _currently under review with the_ Journal of Politics
 
 
 ### Further work in progress
