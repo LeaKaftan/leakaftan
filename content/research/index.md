@@ -9,7 +9,7 @@ This project studies the extent to which European democratic systems are support
 
 ### Current working papers
 
-_title hidden for review_
+_title hidden, currently under reviwe with_ German Politics
 
 _title hidden, currently under review with the_ American Journal of Political Science
 
