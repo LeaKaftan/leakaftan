@@ -26,14 +26,14 @@ This research project has been funded by the Fritz Thyssen foundation. [Further 
 
 ### Current working papers
 
-_title hidden_, together with Dominik Duell, Sven-Oliver Proksch & Christopher Wratil, _currently under review with the_ Journal of Politics
+_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _currently under review with the_ Journal of Politics
 
 
 ### Further work in progress
 
-"They sow the wind and reap the tailwind / whirlwind. Rebellion on Twitter in Germany and the UK", together with Dominik Duell, Sven-Oliver Proksch & Christopher Wratil
+"They sow the wind and reap the tailwind / whirlwind. Rebellion on Twitter in Germany and the UK", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
-"Understanding the Popularity of Rebellious Politicians: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch & Christopher Wratil
+"Understanding the Popularity of Rebellious Politicians: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
 ## Decentralization and Electoral Geographies
 
