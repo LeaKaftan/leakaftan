@@ -13,9 +13,9 @@ _title hidden, currently under review with_ German Politics
 
 "Lip Service to Liberal Demcoracy in Western Europe? Democratic Attitudes of Authoritarian, Populist and Radical Western Europeans"
 
-"From liberal to majoritarian democracy. Tolerance for illiberal democracy among dissatisfied or majoritarian democrats", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+"The Democracy I Like. Perceptions of Democracy and Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
-"Name it and shame it? The effect of criticism on citizens’ opposition to democratic backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+"Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
 
 ## Rebels in Representative Democracies
@@ -43,6 +43,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"Optimized Dictionaries and the Measurement of Issue Attention across Political Arenas", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+"The Measurement of Issue Attention across Political Arenas. Exploiting Increasing Returns with Optimized Dictionaries", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
