@@ -43,6 +43,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"The Measurement of Issue Attention across Political Arenas. Exploiting Increasing Returns with Optimized Dictionaries", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
