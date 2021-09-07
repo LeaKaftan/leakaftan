@@ -45,4 +45,4 @@ This research project has been funded twice by the German Research Foundation (D
 
 _title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
-"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with the_ American Journal for Political Science
