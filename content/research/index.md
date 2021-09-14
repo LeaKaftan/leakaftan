@@ -43,6 +43,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth _currently under review with the_ American Journal for Political Science
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with the_ American Journal for Political Science
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
