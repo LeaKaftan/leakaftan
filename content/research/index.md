@@ -11,7 +11,7 @@ This project studies the extent to which European democratic systems are support
 
 _title hidden, currently under review with_ German Politics
 
-"Lip Service to Liberal Demcocracy in Western Europe? Democratic Attitudes of Authoritarian, Populist and Radical Western Europeans"
+_title hidden, currently under review_ 
 
 "The Democracy I Like. Perceptions of Democracy and Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
