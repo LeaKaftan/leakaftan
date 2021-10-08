@@ -17,7 +17,7 @@ _title hidden, currently under review_
 
 "Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
-## Democracy, Anger and Elite Response (DANGER)
+## Democracy, Anger, and Elite Responses (DANGER)
 
 The DANGER project investigates to what extent elite responses to political violence and coalitions between democratic and anti-democratic elites endanger the survival of democracy. We aim at collecting and analysing data from the European interwar period to get a better understanding of the factors that explain the collapse of democracies and to assess the stability of democracies today.
 
