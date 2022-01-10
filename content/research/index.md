@@ -9,13 +9,15 @@ This project studies the extent to which European democratic systems are support
 
 ### Current working papers
 
-_title hidden, currently under review with_ German Politics
+"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-_title hidden, currently under review_ 
+"Lip Service to Liberal Democracy in Western Europe? Democratic Attitudes of Authoritarian, Populist and Radical Western Europeans"
 
-"The Democracy I Like. Perceptions of Democracy and Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+_title hidden_, together with Theresa Gessler, _currently under review with_ Democratization
 
 "Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+
+"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach
 
 ## Democracy, Anger, and Elite Responses (DANGER)
 
@@ -31,9 +33,11 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Current working papers
 
-_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _currently under review with the_ Journal of Politics
+"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _conditionally accepted by the_ Journal of Politics
 
-"Understanding the Popularity of Rebellious Politicians: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+"The rebel you love to hate: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+
+"Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?"" , together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
 ### Further work in progress
 
