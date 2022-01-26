@@ -11,7 +11,7 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-"Lip Service to Liberal Democracy in Western Europe? Democratic Attitudes of Authoritarian, Populist and Radical Western Europeans"
+_title hidden for review_
 
 _title hidden_, together with Theresa Gessler, _currently under review with_ Democratization
 
@@ -37,7 +37,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 "The rebel you love to hate: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
-"Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?"" , together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+"Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
 ### Further work in progress
 
