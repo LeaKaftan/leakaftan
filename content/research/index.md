@@ -11,7 +11,7 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-_title hidden for review_
+_title hidden, currently under review with_ Political Science Research and Methods
 
 _title hidden_, together with Theresa Gessler, _currently under review with_ Democratization
 
@@ -52,6 +52,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"The Measurement of Issue Attention across Political Arenas: Exploiting Increasing Returns with Optimized Dictionaries", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+_title hidden_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with_ Political Analysis
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
