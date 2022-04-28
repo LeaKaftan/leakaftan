@@ -11,11 +11,15 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-_title hidden, currently under review with_ Political Science Research and Methods
+"Lip Service to Liberal Democracy in Western Europe?"
 
-_title hidden_, together with Theresa Gessler, _currently under review with_ Democratization
+"The Authoritarian Populist Specter in Western Europe"
+
+"Perceptions of Democracy and Opposition to Democratic Backsliding in Liberal Democracies", together with Theresa Gessler
 
 "Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+
+### Further work in progress
 
 "The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach
 
@@ -31,9 +35,11 @@ Many politicians take actions to separate themselves from their party while enti
 
 This research project has been funded by the Fritz Thyssen foundation  (PI: Sven-Oliver Proksch). [Further information can be found here.](https://cccp.uni-koeln.de/de/research/current-research-projects/rebels-in-representative-democracy-the-appeal-and-consequences-of-political-defection-in-europe/)
 
-### Current working papers
+### Publications
 
-"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _conditionally accepted by the_ Journal of Politics
+"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _forthcoming with the_ Journal of Politics
+
+### Current working papers
 
 "The rebel you love to hate: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
@@ -52,6 +58,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with_ Political Analysis
+"The Measurement of Issue Attention across Political Arenas: Exploiting Increasing Returns with Optimized Dictionaries", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
