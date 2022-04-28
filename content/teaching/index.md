@@ -1,17 +1,19 @@
 ---
-date: "2016-08-24 17:51:42"
+date: "2022-04-11 17:51:42"
 title: Teaching
 ---
 
-# BA level
+# MA level
 
+**Public Opinion on Democracy and Advanced Survey Methodology** (Summer term 2022, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/PublicOpinionOnDemocracyAndAdvancedSurveyMethodolgy_20220128.pdf))
+
+# BA level
 
 **The Political System of Germany** (Winter 2018/2019, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2018-19_WS/14335.0106_Kaftan_Saldivia.pdf))
 
 # School level
 
 **Hack your Future** (Summer 2020, 2021, University of Cologne, [course website](https://hyf-koeln.org))
-
 
 # Teaching / grading assistant
 
