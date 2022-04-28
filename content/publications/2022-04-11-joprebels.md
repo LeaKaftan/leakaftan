@@ -9,7 +9,7 @@ keywords:
 - Italy 
 - France
 - survey experiment
-title: Communicating the Rift
+title: Duell et al. (2020) "Communicating the Rift", Journal of Politics
 ---
   
 ## Title:

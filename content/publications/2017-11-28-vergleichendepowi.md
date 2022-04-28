@@ -4,7 +4,7 @@ date: "2017-11-28 16:56:54"
 keywords:
 - comparative politics
 - Germany
-title: Schwerpunkte und Trends der Vergleichenden Politikwissenschaft in Deutschland (2007-2017)
+title: Mohamad-Klotzbach et al. (2017) "Schwerpunkte und Trends der Vergleichenden Politikwissenschaft in Deutschland (2007-2017)", Zeitschrift für Vergleichende Politikwissenschaft
 ---
 
 ## Title:
