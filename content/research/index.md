@@ -37,11 +37,11 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Publications
 
-"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _forthcoming with the_ Journal of Politics
+"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, Journal of Politics
 
 ### Current working papers
 
-"The rebel you love to hate: A Cross-National Survey Experiment", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _currently under review with Political Science Research and Methods_
 
 "Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
