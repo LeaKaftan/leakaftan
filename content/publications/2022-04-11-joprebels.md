@@ -15,7 +15,7 @@ title: Duell et al. (2022) "Communicating the Rift", Journal of Politics
 ## Title:
 Communicating the Rift: Voter Perceptions of Intra-Party Dissent in Parliaments
 
-*Journal of Politics*, forthcoming
+[Journal of Politics](https://www.journals.uchicago.edu/doi/abs/10.1086/720645?journalCode=jop)
 
 ## Co-author:
 Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin, Christopher Wratil
