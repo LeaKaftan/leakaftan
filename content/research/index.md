@@ -11,7 +11,7 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-"Lip Service to Liberal Democracy in Western Europe?"
+_title hidden for review_
 
 "The Authoritarian Populist Specter in Western Europe"
 
