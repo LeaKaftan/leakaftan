@@ -11,11 +11,11 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-_title hidden for review_
+_title hidden, currently under review with Public Opinion Quarterly_
 
 "The Authoritarian Populist Specter in Western Europe"
 
-"Perceptions of Democracy and Opposition to Democratic Backsliding in Liberal Democracies", together with Theresa Gessler
+"Perceptions of Democracy and Opposition to Democratic Backsliding in Liberal Democracies", together with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
 "Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
