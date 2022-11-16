@@ -53,7 +53,7 @@ weight = 5
   # googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a research assistant at the Chair for International Political Studies at Witten/Herdecke University, and in the final stages of my PhD studies at the Cologne Center for Comparative Politics, University of Cologne. I am a big fan of democracy, political elites and computational social sciences."
+  description = "I am a PostDoc at the Chair for International Political Studies at Witten/Herdecke University, and still affiliated with my alma mater, the Cologne Center for Comparative Politics, University of Cologne. I am a big fan of democracy, political elites and computational social sciences."
   mainSection = "publications" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
