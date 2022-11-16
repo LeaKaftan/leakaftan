@@ -13,11 +13,11 @@ This project studies the extent to which European democratic systems are support
 
 _title hidden, currently under review with Public Opinion Quarterly_
 
-"The Authoritarian Populist Specter in Western Europe"
+_title hidden, currently under review with the European Journal of Political Research_
 
 "Perceptions of Democracy and Opposition to Democratic Backsliding in Liberal Democracies", together with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
 
-"Public Debate and Citizens' Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+_title hidden_, co-authored survey experiment with Theresa Gessler, _currently under review with the Journal of Elections, Public Opinion and Parties_
 
 ### Further work in progress
 
