@@ -13,7 +13,7 @@ This project studies the extent to which European democratic systems are support
 
 Lip Service to Democracy in Western Europe?, manuscript
 
-_title hidden, currently under review with the European Political Science Review_
+_title hidden for review_
 
 _title hidden for review_
 
