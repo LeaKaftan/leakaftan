@@ -11,11 +11,11 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
 
-_title hidden, currently under review with Public Opinion Quarterly_
+Lip Service to Democracy in Western Europe?, manuscript
 
-_title hidden, currently under review with the European Journal of Political Research_
+_title hidden, currently under review with the European Political Science Review_
 
-"Perceptions of Democracy and Opposition to Democratic Backsliding in Liberal Democracies", together with Theresa Gessler, pre-registered with [OSF](https://osf.io/47xp2/)
+_title hidden for review_
 
 _title hidden_, co-authored survey experiment with Theresa Gessler, _currently under review with the Journal of Elections, Public Opinion and Parties_
 
