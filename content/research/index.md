@@ -9,13 +9,13 @@ This project studies the extent to which European democratic systems are support
 
 ### Current working papers
 
-"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany"
+"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript
 
-Lip Service to Democracy in Western Europe?, manuscript
+"Lip Service to Democracy in Western Europe?", manuscript
 
-_title hidden for review_
+_title hidden for review_, currently under review with the _European Political Science Review_
 
-_title hidden for review_
+_title hidden for review_, co-authored survey experiment with Theresa Gessler
 
 _title hidden_, co-authored survey experiment with Theresa Gessler, _currently under review with the Journal of Elections, Public Opinion and Parties_
 
@@ -58,6 +58,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"The Measurement of Issue Attention across Political Arenas: Exploiting Increasing Returns with Optimized Dictionaries", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+_title hidden for review_
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
