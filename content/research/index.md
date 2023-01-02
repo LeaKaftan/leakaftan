@@ -15,7 +15,7 @@ This project studies the extent to which European democratic systems are support
 
 _title hidden for review_, currently under review with the _European Political Science Review_
 
-_title hidden for review_, co-authored survey experiment with Theresa Gessler
+_title hidden for review_, co-authored survey experiment with Theresa Gessler, _currently under review with Political Research Quarterly_
 
 _title hidden_, co-authored survey experiment with Theresa Gessler, _currently under review with the Journal of Elections, Public Opinion and Parties_
 
@@ -29,6 +29,11 @@ The DANGER project investigates to what extent elite responses to political viol
 
 This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further information can be found here.](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-economics-and-society/department-of-philosophy-politics-and-economics/chair-of-international-political-studies/)
 
+### Work in progress
+
+Party System Polarization and Fragmentation in Europe before and after World War II, together with Nils-Christian Bormann
+
+
 ## Rebels in Representative Democracies
 
 Many politicians take actions to separate themselves from their party while entire parties seek to distance themselves from the political system. They do so for political gain, and often at the expense of the party or the system as a whole. But we lack a solid understanding of when and why voters actually like rebels -- those politicians willing to attack their party or the political system for personal gain. The project investigates political rebellion using cross-national survey experiments and social media analysis.
@@ -41,7 +46,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Current working papers
 
-_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _currently under review with Political Science Research and Methods_
+_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _revise and resubmit with Political Science Research and Methods_
 
 "Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
@@ -58,6 +63,6 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden for review_
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with Sociological Methods & Research_
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
