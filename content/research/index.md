@@ -9,19 +9,21 @@ This project studies the extent to which European democratic systems are support
 
 ### Current working papers
 
-"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript
+"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
 
-"Lip Service to Democracy in Western Europe?", manuscript
+"Lip Service to Democracy in Western Europe?", manuscript available on request
 
-_title hidden for review_, currently under review with the _European Political Science Review_
+"Authoritarianism, Populism, or Radicalism? Correlates of Citizens' Democratic Attitudes", manuscript available on request
 
-_title hidden for review_, co-authored survey experiment with Theresa Gessler, _currently under review with Political Research Quarterly_
+"The Democracy I Like. Perceptions of Democracy and Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, manuscript available on request
 
-_title hidden_, co-authored survey experiment with Theresa Gessler, _currently under review with the Journal of Elections, Public Opinion and Parties_
+_title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with the Journal of Elections, Public Opinion and Parties_
 
 ### Further work in progress
 
 "The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach
+
+"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann
 
 ## Democracy, Anger, and Elite Responses (DANGER)
 
@@ -31,8 +33,9 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Work in progress
 
-Party System Polarization and Fragmentation in Europe before and after World War II, together with Nils-Christian Bormann
+"Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe", together with Nils-Christian Bormann, presented at the PEDD Conference in February 2023
 
+"Government Formation in Interwar Europe: New Data and Alanysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
 ## Rebels in Representative Democracies
 
@@ -66,3 +69,7 @@ This research project has been funded twice by the German Research Foundation (D
 _title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with Sociological Methods & Research_
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+
+### Further work in progress
+
+"A regional-ideological perspective on electoral geographies. The Regionally Disaggregated State-wide Elections (RD|SED), the Regional Elections (RED), and the Ideological Centers of Gravity (COG) datasets", together with Daniel Saldivia Gonzatti, Leonce Röth and André Kaiser
