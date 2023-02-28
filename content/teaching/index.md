@@ -5,6 +5,8 @@ title: Teaching
 
 # MA level
 
+**Survey Methods for the Social Sciences** (Summer term 2023, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2023_SS/SurveyResearchForPoliticalScientists.pdf))
+
 **Public Opinion on Democracy and Advanced Survey Methodology** (Summer term 2022, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/PublicOpinionOnDemocracyAndAdvancedSurveyMethodolgy_20220128.pdf))
 
 # BA level
