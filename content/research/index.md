@@ -66,7 +66,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with Sociological Methods & Research_
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with Sociological Research & Methods_
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
