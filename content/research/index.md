@@ -51,7 +51,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 _title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _revise and resubmit with Political Science Research and Methods_
 
-"Challenging the Challengers. Do Intra-Party Divisions Help Parties Fight Electoral Threats from New Parties?", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+_title hidden_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _currently under review with the American Political Science Review_
 
 ### Further work in progress
 
