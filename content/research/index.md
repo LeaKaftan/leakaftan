@@ -15,7 +15,7 @@ This project studies the extent to which European democratic systems are support
 
 "Authoritarianism, Populism, or Radicalism? Correlates of Citizens' Democratic Attitudes", manuscript available on request
 
-"The Democracy I Like. Perceptions of Democracy and Opposition to Democratic Backsliding", co-authored survey experiment with Theresa Gessler, manuscript available on request
+_title hidden for review_, co-authored survey experiment with Theresa Gessler, _submitted to Government \& Opposition_ in early April, manuscript available on request
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with the Journal of Elections, Public Opinion and Parties_
 
