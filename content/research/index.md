@@ -15,7 +15,7 @@ This project studies the extent to which European democratic systems are support
 
 "Authoritarianism, Populism, or Radicalism? Correlates of Citizens' Democratic Attitudes", manuscript available on request
 
-_title hidden for review_, co-authored survey experiment with Theresa Gessler, _under review with Government \& Opposition_ since mid-April, manuscript available on request
+_title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with the Journal of Elections, Public Opinion and Parties_
 
@@ -47,7 +47,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 "Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, Journal of Politics
 
-"The Rhyme and Reason of Rebel Support: Exploring European Voters' Attitudes Towards Dissident MPs", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _conditionally accepted for publication in Political Science Research and Methods_
+"The Rhyme and Reason of Rebel Support: Exploring European Voters' Attitudes Towards Dissident MPs", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _forthcomming with the Political Science Research and Methods_
 
 ### Current working papers
 
@@ -67,7 +67,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _currently under review with Sociological Research & Methods_
+"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
