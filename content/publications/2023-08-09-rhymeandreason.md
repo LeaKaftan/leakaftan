@@ -2,7 +2,7 @@
 categories: life
 date: "2023-08-09 16:56:54"
 keywords:
-  - Experimental research 
+- Experimental research 
 - political parties and interest groups
 - representation and electoral systems
 - voting behavior 
