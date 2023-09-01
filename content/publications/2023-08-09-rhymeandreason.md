@@ -1,6 +1,6 @@
 ---
-  categories: life
-date: "2022-04-11 16:56:54"
+categories: life
+date: "2023-08-09 16:56:54"
 keywords:
   - Experimental research 
 - political parties and interest groups
