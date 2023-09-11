@@ -25,6 +25,7 @@ _title hidden for review_, co-authored survey experiment with Theresa Gessler, _
 
 "Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann
 
+
 ## Democracy, Anger, and Elite Responses (DANGER)
 
 The DANGER project investigates to what extent elite responses to political violence and coalitions between democratic and anti-democratic elites endanger the survival of democracy. We aim at collecting and analysing data from the European interwar period to get a better understanding of the factors that explain the collapse of democracies and to assess the stability of democracies today.
@@ -37,6 +38,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 "Government Formation in Interwar Europe: New Data and Alanysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
+
 ## Rebels in Representative Democracies
 
 Many politicians take actions to separate themselves from their party while entire parties seek to distance themselves from the political system. They do so for political gain, and often at the expense of the party or the system as a whole. But we lack a solid understanding of when and why voters actually like rebels -- those politicians willing to attack their party or the political system for personal gain. The project investigates political rebellion using cross-national survey experiments and social media analysis.
@@ -45,18 +47,14 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Publications
 
-"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, Journal of Politics
+"Communicating the Rift. Voter Perceptions of Intra-Party Dissent in Parliament", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _Journal of Politics_
 
-"The Rhyme and Reason of Rebel Support: Exploring European Voters' Attitudes Towards Dissident MPs", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _forthcomming with the Political Science Research and Methods_
+"The Rhyme and Reason of Rebel Support: Exploring European Voters' Attitudes Towards Dissident MPs", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _Political Science Research and Methods_
 
 ### Current working papers
 
-"Challenging the challengers: Do intraparty divisions help parties fight electoral threats from new parties?", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
-
-### Further work in progress
-
-"They sow the wind and reap the tailwind / whirlwind. Rebellion on Twitter in Germany and the UK", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
 
 
 ## Decentralization and Electoral Geographies
