@@ -13,7 +13,7 @@ This project studies the extent to which European democratic systems are support
 
 "Lip Service to Democracy in Western Europe?", manuscript available on request
 
-"Authoritarianism, Populism, or Radicalism? Correlates of Citizens' Democratic Attitudes", manuscript available on request
+_title hidden_, currently under review with the _British Journal of Political Science_
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
 
@@ -67,10 +67,9 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
+"Electoral geographies, multi-level politics and ideology: New data sets to explore the role of ideology in multi-level politics", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser
+
 "Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
-### Further work in progress
-
-"A regional-ideological perspective on electoral geographies. The Regionally Disaggregated State-wide Elections (RD|SED), the Regional Elections (RED), and the Ideological Centers of Gravity (COG) datasets", together with Daniel Saldivia Gonzatti, Leonce Röth and André Kaiser
