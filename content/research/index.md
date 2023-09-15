@@ -11,7 +11,7 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
 
-"Lip Service to Democracy in Western Europe?", manuscript available on request
+_title hidden for review_
 
 _title hidden_, currently under review with the _British Journal of Political Science_
 
