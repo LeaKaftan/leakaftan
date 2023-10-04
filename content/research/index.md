@@ -17,7 +17,7 @@ _title hidden_, currently under review with the _British Journal of Political Sc
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
 
-"Public debate and citizens' opposition to democratic backsliding", co-authored survey experiment with Theresa Gessler, forthcomming with the _Journal of Elections, Public Opinion and Parties_
+"Public debate and citizens' opposition to democratic backsliding", co-authored survey experiment with Theresa Gessler, forthcoming with the _Journal of Elections, Public Opinion and Parties_
 
 ### Further work in progress
 
