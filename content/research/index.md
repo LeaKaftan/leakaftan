@@ -11,13 +11,13 @@ This project studies the extent to which European democratic systems are support
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
 
-"Lip Service to Democracy in Western Europe?", manuscript available on request
+_title hidden for review_, currently under review with the _European Political Science Review_
 
-_title hidden for review_, manuscript available on request
+_title hidden_, currently under review with the _British Journal of Political Science_
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
 
-_title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with the Journal of Elections, Public Opinion and Parties_
+"Public debate and citizens' opposition to democratic backsliding", co-authored survey experiment with Theresa Gessler, forthcoming with the _Journal of Elections, Public Opinion and Parties_
 
 ### Further work in progress
 
@@ -65,7 +65,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"Studying multi-level systems with cross-level data", together with Daniel Saldivia Gonzatti, Leonce Röth and André Kaiser
+"Electoral geographies, multi-level politics and ideology: New data sets to explore the role of ideology in multi-level politics", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser
 
 "Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
