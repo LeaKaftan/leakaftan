@@ -53,7 +53,7 @@ weight = 5
   # googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a PostDoc at GESIS -- Leibniz Institute for the Social Sciences, and still affiliated with my alma mater, the Cologne Center for Comparative Politics, University of Cologne. I am a big fan of democracy, political elites and computational social sciences. I am also participating in the MEDem project (medem.eu), moving forward research on democracies."
+  description = "I am a PostDoc at GESIS -- Leibniz Institute for the Social Sciences, and still affiliated with my alma mater, the Cologne Center for Comparative Politics, University of Cologne. I am a big fan of democracy, political elites and computational social sciences. I am also part of the MEDem project (medem.eu), building up an infrastrucutre for research on democratic countries."
   mainSection = "publications" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
