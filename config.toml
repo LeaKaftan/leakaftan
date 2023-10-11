@@ -83,7 +83,7 @@ weight = 5
 #    name = "linkedin"
 #    link = "https://www.linkedin.com/in/lea-kaftan-05971468/"
   [[params.social]]
-    name = "bluesky"
+    name = "bsky"
     link = "https://bsky.app/profile/dielea.bsky.social"
   [[params.social]]
     name = "email"
