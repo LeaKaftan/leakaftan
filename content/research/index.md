@@ -4,11 +4,6 @@ title: Research agenda
 ---
 
 
-## Studies in progress
-
-"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation
-
-
 ## European Citizens' and Parties' Attitudes towards Liberal Democracy
 
 This project studies the extent to which European democratic systems are supported by their citizens and their political elite, most importantly parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties and aims at revealing the reasons for which citizens and parties defend liberal democracy.
@@ -76,4 +71,9 @@ _title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce
 "Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
+
+
+## Other side projects
+
+"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation
 
