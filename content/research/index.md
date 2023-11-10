@@ -3,6 +3,12 @@ date: "2018-10-01 09:00:00"
 title: Research agenda
 ---
 
+
+## Studies in progress
+
+"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation
+
+
 ## European Citizens' and Parties' Attitudes towards Liberal Democracy
 
 This project studies the extent to which European democratic systems are supported by their citizens and their political elite, most importantly parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties and aims at revealing the reasons for which citizens and parties defend liberal democracy.
@@ -13,17 +19,15 @@ This project studies the extent to which European democratic systems are support
 
 _title hidden for review_, currently under review with the _European Political Science Review_
 
-_title hidden_, currently under review with the _British Journal of Political Science_
+"Anti-democratic authoritarians, democratic populists? The support for (liberal) democracy among authoritarian, populist and radical Western Europeans", manuscript available on request
 
 _title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
 
 "Public debate and citizens' opposition to democratic backsliding", co-authored survey experiment with Theresa Gessler, forthcoming with the _Journal of Elections, Public Opinion and Parties_
 
-### Further work in progress
+<!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
-"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach
-
-"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann
+<!---"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann--->
 
 
 ## Democracy, Anger, and Elite Responses (DANGER)
@@ -37,6 +41,8 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 "Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe", together with Nils-Christian Bormann, presented at the PEDD Conference in February 2023
 
 "Government Formation in Interwar Europe: New Data and Alanysis", together with Nils-Christian Bormann, presented at APSA in 2022
+
+<!---"Introducing the Democratic Electoral Systems data, 1919-1925"--->, _title hidden for review_, together with Nils-Christian Bormann, submitted to _Open Research Europe_
 
 
 ## Rebels in Representative Democracies
@@ -65,7 +71,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-"Electoral geographies, multi-level politics and ideology: New data sets to explore the role of ideology in multi-level politics", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, _currently under review with the BJPS_
 
 "Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
