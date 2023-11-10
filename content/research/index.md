@@ -37,7 +37,9 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 "Government Formation in Interwar Europe: New Data and Alanysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
-<!---"Introducing the Democratic Electoral Systems data, 1919-1925"--->, _title hidden for review_, together with Nils-Christian Bormann, submitted to _Open Research Europe_
+<!---"Introducing the Democratic Electoral Systems data, 1919-1925"--->
+
+_title hidden for review_, together with Nils-Christian Bormann, submitted to _Open Research Europe_
 
 
 ## Rebels in Representative Democracies
@@ -73,7 +75,7 @@ _title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce
 "Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth
 
 
-## Other side projects
+## Other projects
 
 "How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation
 
