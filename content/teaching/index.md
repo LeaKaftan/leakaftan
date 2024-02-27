@@ -3,6 +3,10 @@ date: "2022-04-11 17:51:42"
 title: Teaching
 ---
 
+# All levels
+
+**Introduction to Computational Text Analysis with R** (13 to 15 March 2024, GESIS -- Leibniz-Institut für Sozialwissenschaften)
+
 # MA level
 
 **Survey Methods for the Social Sciences** (Summer term 2023, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2023_SS/SurveyResearchForPoliticalScientists.pdf))
