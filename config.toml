@@ -87,4 +87,4 @@ weight = 5
     link = "https://bsky.app/profile/dielea.bsky.social"
   [[params.social]]
     name = "email"
-    link = "lea.kaftan@uni-wh.de"  # no need for "mailto:" in the head
+    link = "lea.kaftan@gesis.org"  # no need for "mailto:" in the head
