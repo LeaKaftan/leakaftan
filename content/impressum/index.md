@@ -1,9 +1,9 @@
 # Impressum
 
     Lea Kaftan
-    Universität Witten/Herdecke
-    Alfred-Herrhauser-Straße 50
-    58455 Witten
+    GESIS -- Leibniz-Institut für Sozialwissenschaften
+    Unter Sachsenhausen 6-8
+    50667 Köln
 
 # Datenschutz
 
@@ -14,9 +14,9 @@ Ich sammle keinerlei Daten über die Nutzer dieser Homepage. Unter anderem, aber
 Verantwortlich für den Datenschutz ist: 
 
     Lea Kaftan
-    Universität Witten/Herdecke
-    Alfred-Herrhauser-Straße 50
-    58455 Witten
+    GESIS -- Leibniz-Institut für Sozialwissenschaften
+    Unter Sachsenhausen 6-8
+    50667 Köln
 
 ## Haftungsausschluss
 
