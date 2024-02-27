@@ -9,8 +9,8 @@ keywords:
 title: Gessler, Kaftan (2023) "Communicating democratic subversions to citizens", JEPOP
 ---
   
-  ## Title:
-  Communicating democratic subversions to citizens
+## Title:
+Communicating democratic subversions to citizens
 
 [Journal of Elections, Public Opinion and Parties](https://www.tandfonline.com/doi/full/10.1080/17457289.2023.2282626)
 
