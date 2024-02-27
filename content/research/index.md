@@ -8,17 +8,19 @@ title: Research agenda
 
 This project is based on my dissertation and studies the extent to which European democratic systems are supported by their citizens and their political parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties. It aims at revealing the reasons for which citizens and parties defend liberal democracy.
 
+### Publications
+
+"Communicating democratic subversions to citizens", together with Theresa Gessler, _Journal of Elections, Public Opinion and Parties_
+
 ### Current working papers
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
 
-_title hidden for review_, currently under review with the _European Political Science Review_
+_title hidden for review_, revise and resubmit with the _European Political Science Review_
 
 "Anti-democratic authoritarians, democratic populists? The support for (liberal) democracy among authoritarian, populist and radical Western Europeans", manuscript available on request
 
-_title hidden for review_, co-authored survey experiment with Theresa Gessler, _revise and resubmit with Government \& Opposition_
-
-"Communicating democratic subversions to citizens", together with Theresa Gessler, _Journal of Elections, Public Opinion and Parties_
+_title hidden for review_, co-authored survey experiment with Theresa Gessler, revise and resubmit with _Government \& Opposition_
 
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
@@ -66,14 +68,14 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Current working papers
 
-_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, _currently under review with the BJPS_
+_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, currently under review with the _British Journal of Political Science_
 
-"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, working paper published with the SSOAR, _currently under review with the Communication Methods and Measures_
+"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, working paper published with the SSOAR, currently under review with _Communication Methods and Measures_
 
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
 
-## Other projects
+## Other working in progress
 
 "How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation, to be presented at EPSA in July 2024
 
