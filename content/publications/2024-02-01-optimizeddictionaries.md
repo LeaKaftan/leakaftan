@@ -1,5 +1,5 @@
 ---
-  categories: life
+categories: life
 date: "2024-02-01 16:56:54"
 keywords:
 - dictionaries

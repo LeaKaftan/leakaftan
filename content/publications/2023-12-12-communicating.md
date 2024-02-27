@@ -1,5 +1,5 @@
 ---
-  categories: life
+categories: life
 date: "2023-12-12 16:56:54"
 keywords:
 - democratic subversions
