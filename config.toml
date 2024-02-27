@@ -76,15 +76,15 @@ weight = 5
   [[params.social]]
     name = "github"
     link = "https://github.com/leakaftan"
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/Lea23459981"
+#  [[params.social]]
+#    name = "twitter"
+#    link = "https://twitter.com/Lea23459981"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/dr-lea-kaftan-05971468/"
-#  [[params.social]]
-#    name = "bsky"
-#    link = "https://bsky.app/profile/dielea.bsky.social"
+  [[params.social]]
+    name = "bsky"
+    link = "https://bsky.app/profile/dielea.bsky.social"
   [[params.social]]
     name = "email"
     link = "lea.kaftan@uni-wh.de"  # no need for "mailto:" in the head
