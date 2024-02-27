@@ -2,10 +2,12 @@
   categories: life
 date: "2024-02-01 16:56:54"
 keywords:
-- democratic subversions
-- democratic backsliding
-- support for democracy
-- survey experiment
+- dictionaries
+- computational social science
+- machine learning
+- topic models
+- text as data
+- quantitative text analysis
 title: Röth et al. (2024) "Optimized Dictionaries", SSOAR
 ---
   
