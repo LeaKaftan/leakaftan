@@ -10,17 +10,17 @@ This project is based on my dissertation and studies the extent to which Europea
 
 ### Publications
 
+"Lip Service to Liberal Democracy in Western Europe?", accepted for publication in the _European Political Science Review_
+
 "Communicating democratic subversions to citizens", together with Theresa Gessler, _Journal of Elections, Public Opinion and Parties_
+
+"The Democracy I Like?", together with Theresa Gessler, accepted for publication in _Government \& Opposition_
 
 ### Current working papers
 
 "Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
 
-Lip Service to Liberal Democracy in Western Europe?, accepted for publication in the _European Political Science Review_
-
 "Anti-democratic authoritarians, democratic populists? The support for (liberal) democracy among authoritarian, populist and radical Western Europeans", manuscript available on request
-
-The Democracy I Like?, co-authored survey experiment with Theresa Gessler, accepted for publication in _Government \& Opposition_
 
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
