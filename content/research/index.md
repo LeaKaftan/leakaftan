@@ -10,11 +10,11 @@ This project is based on my dissertation and studies the extent to which Europea
 
 ### Publications
 
-"Lip Service to Liberal Democracy in Western Europe?", accepted for publication in the _European Political Science Review_
-
 "Communicating democratic subversions to citizens", together with Theresa Gessler, _Journal of Elections, Public Opinion and Parties_
 
-"The Democracy I Like?", together with Theresa Gessler, accepted for publication in _Government \& Opposition_
+"Lip Service to Liberal Democracy in Western Europe?", forthcoming in the _European Political Science Review_
+
+"The Democracy I Like?", together with Theresa Gessler, forthcoming in _Government \& Opposition_
 
 ### Current working papers
 
@@ -33,13 +33,15 @@ The DANGER project investigates to what extent elite responses to political viol
 
 This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further information can be found here.](https://www.erc-danger.de/)
 
+### Publications
+
+"Introducing the Democratic Electoral Systems data, 1919-1925", together with Nils-Christian Bormann, forthcoming in the _Open Research Europe_
+
 ### Work in progress
 
-"Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe", together with Nils-Christian Bormann, presented at the PEDD Conference in February 2023
+_title hidden for review_, together with Nils-Christian Bormann, currently under review with _Comparative Political Studies_
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
-
-"Introducing the Democratic Electoral Systems data, 1919-1925", together with Nils-Christian Bormann, submitted to _Open Research Europe_
 
 
 ## Rebels in Representative Democracies -- finished
