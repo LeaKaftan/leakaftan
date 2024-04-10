@@ -72,7 +72,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 _title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, currently under review with the _British Journal of Political Science_
 
-"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, working paper published with the SSOAR, currently under review with _Communication Methods and Measures_
+"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, working paper published with the SSOAR
 
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
