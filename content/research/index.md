@@ -18,7 +18,7 @@ This project is based on my dissertation and studies the extent to which Europea
 
 ### Current working papers
 
-"Party Competition over Democracy. Democracy Per Se and Conceptions of Democracy as Electoral Issues in Germany", manuscript available on request
+_title hidden for review_, currently under review with _Politics and Governance_
 
 "Anti-democratic authoritarians, democratic populists? The support for (liberal) democracy among authoritarian, populist and radical Western Europeans", manuscript available on request
 
@@ -35,7 +35,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Publications
 
-"Introducing the Democratic Electoral Systems data, 1919-1925", together with Nils-Christian Bormann, forthcoming in the _Open Research Europe_
+"Introducing the Democratic Electoral Systems data, 1919-1925 [version 1; peer review: awaiting peer review]", together with Nils-Christian Bormann, _Open Research Europe_
 
 ### Work in progress
 
@@ -59,7 +59,6 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 ### Current working papers
 
 _title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
-
 
 
 ## Decentralization and Electoral Geographies -- finished
