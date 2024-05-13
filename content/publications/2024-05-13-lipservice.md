@@ -1,6 +1,6 @@
 ---
 categories: life
-date: "2024-05-13 16:56:54"
+date: "2024-05-13 11:56:54"
 keywords:
 - support for democracy
 - understandings of democracy
