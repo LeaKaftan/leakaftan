@@ -12,7 +12,7 @@ This project is based on my dissertation and studies the extent to which Europea
 
 "Communicating democratic subversions to citizens", together with Theresa Gessler, _Journal of Elections, Public Opinion and Parties_
 
-"Lip Service to Liberal Democracy in Western Europe?", forthcoming in the _European Political Science Review_
+"Lip Service to Liberal Democracy in Western Europe?", _European Political Science Review_
 
 "The Democracy I Like?", together with Theresa Gessler, forthcoming in _Government \& Opposition_
 
