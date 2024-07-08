@@ -18,9 +18,9 @@ This project is based on my dissertation and studies the extent to which Europea
 
 ### Current working papers
 
-_title hidden for review_, currently under review with _Politics and Governance_
+_title hidden for review_, revise and resubmit with _Politics and Governance_
 
-"Anti-democratic authoritarians, democratic populists? The support for (liberal) democracy among authoritarian, populist and radical Western Europeans", manuscript available on request
+_title hidden for review_, revise and resubmit with _Political Studies_
 
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
@@ -39,7 +39,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Work in progress
 
-_title hidden for review_, together with Nils-Christian Bormann, currently under review with _Comparative Political Studies_
+_title hidden for review_, together with Nils-Christian Bormann
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
@@ -58,7 +58,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Current working papers
 
-_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil
+_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, currently under review with _European Journal of Political Research_
 
 
 ## Decentralization and Electoral Geographies -- finished
@@ -67,18 +67,18 @@ The first part of this research project analysed the motives of state-wide parti
 
 This research project has been funded twice by the German Research Foundation (DFG, PIs: André Kaiser, Leonce Röth). [Further information and data can be found here.](https://cccp.uni-koeln.de/de/research/current-research-projects/deg-decentralization-and-electoral-geographies-i-ii)
 
-### Current working papers
+### Publications
 
-_title hidden for review_, together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, currently under review with the _British Journal of Political Science_
+"Studying multi-level systems with cross-level data", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, conditionally accepted for publication with the _British Journal of Political Science_
 
-"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, working paper published with the SSOAR
+"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, published with the _SSOAR_
 
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
 
 ## Other working in progress
 
-"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation, to be presented at EPSA in July 2024
+"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation, presented at EPSA in July 2024
 
 "Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, to be presented at the DVPW in September 2024
 
