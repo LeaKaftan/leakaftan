@@ -76,7 +76,7 @@ This research project has been funded twice by the German Research Foundation (D
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
 
-## Other working in progress
+## Other work in progress
 
 "How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation, presented at EPSA in July 2024
 
