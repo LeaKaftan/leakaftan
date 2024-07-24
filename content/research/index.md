@@ -16,9 +16,9 @@ This project is based on my dissertation and studies the extent to which Europea
 
 "The Democracy I Like?", together with Theresa Gessler, forthcoming in _Government \& Opposition_
 
-### Current working papers
+"Party Competition over Democracy", accepted for publication with _Politics and Governance_
 
-_title hidden for review_, revise and resubmit with _Politics and Governance_
+### Current working papers
 
 _title hidden for review_, revise and resubmit with _Political Studies_
 
@@ -39,7 +39,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Work in progress
 
-_title hidden for review_, together with Nils-Christian Bormann
+_title hidden for review_, together with Nils-Christian Bormann, currently under review with the _European Journal of Political Research_ 
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
