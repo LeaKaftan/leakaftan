@@ -35,7 +35,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Publications
 
-"Introducing the Democratic Electoral Systems data, 1919-1925 [version 1; peer review: awaiting peer review]", together with Nils-Christian Bormann, _Open Research Europe_
+"Introducing the Democratic Electoral Systems data, 1919-1925 [version 2; peer review: 2 approved, 1 approved with reservations]", together with Nils-Christian Bormann, _Open Research Europe_
 
 ### Work in progress
 
