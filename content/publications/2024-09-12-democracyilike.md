@@ -8,7 +8,7 @@ keywords:
 - democratic backsliding
 - support for democracy
 - survey experiment
-title: Kaftan, Gessler (2024) "The Democracy I Like: Perceptions of Democracy and Opposition to Democratic Backsliding""
+title: Kaftan, Gessler (2024) "The Democracy I Like", Government and Opposition
 ---
 
 ## Title:
