@@ -14,9 +14,9 @@ This project is based on my dissertation and studies the extent to which Europea
 
 "Lip Service to Liberal Democracy in Western Europe?", _European Political Science Review_
 
-"The Democracy I Like?", together with Theresa Gessler, forthcoming in _Government \& Opposition_
+"The Democracy I Like?", together with Theresa Gessler, _Government \& Opposition_
 
-"Party Competition over Democracy", accepted for publication with _Politics and Governance_
+"Party Competition over Democracy", forthcoming with _Politics and Governance_
 
 ### Current working papers
 
@@ -40,6 +40,8 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 ### Work in progress
 
 _title hidden for review_, together with Nils-Christian Bormann, currently under review with the _European Journal of Political Research_ 
+
+_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, to be submitted to _scientific data_
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
@@ -78,7 +80,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ## Other work in progress
 
-"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, field period under preparation, presented at EPSA in July 2024
+"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, presented at EPSA in July 2024
 
 "Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, to be presented at the DVPW in September 2024
 
