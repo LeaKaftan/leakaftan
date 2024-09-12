@@ -14,7 +14,7 @@ title: Kaftan, Gessler (2024) "The Democracy I Like: Perceptions of Democracy an
 ## Title:
 The Democracy I Like: Perceptions of Democracy and Opposition to Democratic Backsliding
   
-[Government \& Opposition](https://doi.org/10.1017/gov.2024.12)
+[Government and Opposition](https://doi.org/10.1017/gov.2024.12)
 
 
 ## Abstract:
