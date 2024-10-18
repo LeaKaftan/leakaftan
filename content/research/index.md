@@ -16,7 +16,7 @@ This project is based on my dissertation and studies the extent to which Europea
 
 "The Democracy I Like?", together with Theresa Gessler, _Government \& Opposition_
 
-"Party Competition over Democracy", forthcoming with _Politics and Governance_
+"Party Competition over Democracy", _Politics and Governance_
 
 ### Current working papers
 
@@ -71,7 +71,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Publications
 
-"Studying multi-level systems with cross-level data", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, conditionally accepted for publication with the _British Journal of Political Science_
+"Studying multi-level systems with cross-level data", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, forthcoming in the _British Journal of Political Science_
 
 "Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, published with the _SSOAR_
 
@@ -82,5 +82,5 @@ This research project has been funded twice by the German Research Foundation (D
 
 "How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, presented at EPSA in July 2024
 
-"Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, to be presented at the DVPW in September 2024
+"Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, presented at the DVPW in September 2024
 
