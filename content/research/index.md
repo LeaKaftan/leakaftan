@@ -39,9 +39,9 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Work in progress
 
-_title hidden for review_, together with Nils-Christian Bormann, currently under review with the _European Journal of Political Research_ 
+_title hidden for review_, together with Nils-Christian Bormann
 
-_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, to be submitted to _scientific data_
+_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, currently under review with _scientific data_
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
@@ -60,7 +60,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Current working papers
 
-_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, currently under review with _European Journal of Political Research_
+_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, revise and resubmit with _European Journal of Political Research_
 
 
 ## Decentralization and Electoral Geographies -- finished
