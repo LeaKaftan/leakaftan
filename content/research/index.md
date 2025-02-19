@@ -39,9 +39,9 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 ### Work in progress
 
-_title hidden for review_, together with Nils-Christian Bormann
+_title hidden for review_, together with Nils-Christian Bormann, currently under review with _Democratization_
 
-_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, currently under review with _scientific data_
+_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, revise and resubmit with _scientific data_
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
@@ -71,9 +71,9 @@ This research project has been funded twice by the German Research Foundation (D
 
 ### Publications
 
-"Studying multi-level systems with cross-level data", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, forthcoming in the _British Journal of Political Science_
+"Studying multi-level systems with cross-level data", together with Daniel Felipe Saldivia Gonzatti, Leonce Röth and André Kaiser, _British Journal of Political Science_
 
-"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, published with the _SSOAR_
+"Optimized Dictionaries - A Semi-Automated Workflow of Concept Identification in Text-Data", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth, _Social Science Open Access Repository_
 
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
