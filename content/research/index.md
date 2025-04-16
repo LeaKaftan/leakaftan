@@ -37,11 +37,11 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 "Introducing the Democratic Electoral Systems data, 1919-1925 [version 2; peer review: 2 approved, 1 approved with reservations]", together with Nils-Christian Bormann, _Open Research Europe_
 
+"Introducing the Archive of Interwar Europe Election Data & Assemblies (AIEEDA)", together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, _scientific data_
+
 ### Work in progress
 
 _title hidden for review_, together with Nils-Christian Bormann, currently under review with _Democratization_
-
-_title hidden for review_, together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, revise and resubmit with _scientific data_
 
 "Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
 
