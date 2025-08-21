@@ -27,7 +27,7 @@ _title hidden for review_, revise and resubmit with _Political Studies_
 <!---"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann--->
 
 
-## Democracy, Anger, and Elite Responses (DANGER)
+## Democracy, Anger, and Elite Responses (DANGER) -- finished
 
 The DANGER project investigates to what extent elite responses to political violence and coalitions between democratic and anti-democratic elites endanger the survival of democracy. We aim at collecting and analysing data from the European interwar period to get a better understanding of the factors that explain the collapse of democracies and to assess the stability of democracies today.
 
@@ -76,7 +76,7 @@ This research project has been funded twice by the German Research Foundation (D
 
 ## Other work in progress
 
-"How Voters Prioritize Identities for Descriptive Representation", co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, presented at EPSA in July 2024
+_title hidden for review_, co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, presented at EPSA in July 2024
 
 "Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, presented at the DVPW in September 2024
 
