@@ -7,8 +7,7 @@ keywords:
 - ideology
 - democracy
 - interwar Europe
-title: Kaftan, Bormann (2025) "Polarization, fragmentation, and democratic deconsolidation in interwar Europe
-", Democratization
+title: Kaftan, Bormann (2025) "Polarization, fragmentation, and democratic deconsolidation in interwar Europe", Democratization
 ---
   
 ## Title:
