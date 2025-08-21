@@ -39,11 +39,7 @@ This is an ERC Starting Grant project (PI: Nils-Christian Bormann). [Further inf
 
 "Introducing the Archive of Interwar Europe Election Data & Assemblies (AIEEDA)", together with Bruno della Sala, Olga Jerjomina, Stefan Stojkovic, Edoardo Vigano, and Nils-Christian Bormann, _scientific data_
 
-### Work in progress
-
-_title hidden for review_, together with Nils-Christian Bormann, currently under review with _Democratization_
-
-"Government Formation in Interwar Europe: New Data and Analysis", together with Nils-Christian Bormann, presented at APSA in 2022
+"Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe", together with Nils-Christian Bormann, _Democratization_
 
 
 ## Rebels in Representative Democracies -- finished
