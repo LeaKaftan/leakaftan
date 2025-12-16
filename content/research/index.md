@@ -8,6 +8,12 @@ title: Research agenda
 The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS will enhance the integration of new party and voter data into the newly designed online tool called PolPaL. It will also harmonise data, streamlining access for researchers and ensuring long-term collaboration in democracy studies. The project also contributes to the long-term sustainability of such databases by aligning with the European Research Infrastructure (RI) Monitoring Electoral Democracy (MEDem).
 For more information, [click here](https://oscars-project.eu/projects/hardis-harmony-democratic-ideological-space).
 
+### Current working papers
+
+"It takes a village to maintain a database. Communitizing the provision of public goods for science", together with Paul Bederke and Selçuk Timur Uluer.
+
+"Above and Beyond. Expanding linkage possibilities for data on political parties", together with Paul Bederke and Selçuk Timur Uluer.
+
 ## European Citizens' and Parties' Attitudes towards Liberal Democracy
 
 This project is based on my dissertation and studies the extent to which European democratic systems are supported by their citizens and their political parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties. It aims at revealing the reasons for which citizens and parties defend liberal democracy.
