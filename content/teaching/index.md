@@ -5,17 +5,19 @@ title: Teaching
 
 # All levels
 
-**Introduction to Computational Text Analysis with R** (13 to 15 March 2024, GESIS -- Leibniz-Institut für Sozialwissenschaften)
+**Introduction to Computational Text Analysis with R** (3-day Workshop, spring 2024 & 2025, GESIS -- Leibniz-Institut für Sozialwissenschaften)
 
 # MA level
 
-**Survey Methods for the Social Sciences** (Summer term 2023, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2023_SS/SurveyResearchForPoliticalScientists.pdf))
+**Democratic Theory and Practice** (Lecture, winter term 2025/2026, University of Cologne, [detailed course description and syllabus](https://politics.uni-koeln.de/sites/politik/Lehre/WiSe_25_26/MA_Kaftan_Democratic_Theory_and_Practice_WS2526.pdf))
 
-**Public Opinion on Democracy and Advanced Survey Methodology** (Summer term 2022, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/PublicOpinionOnDemocracyAndAdvancedSurveyMethodolgy_20220128.pdf))
+**Survey Methods for the Social Sciences** (Seminar, summer term 2023, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2023_SS/SurveyResearchForPoliticalScientists.pdf))
+
+**Public Opinion on Democracy and Advanced Survey Methodology** (Seminar, summer term 2022, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/PublicOpinionOnDemocracyAndAdvancedSurveyMethodolgy_20220128.pdf))
 
 # BA level
 
-**The Political System of Germany** (Winter 2018/2019, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2018-19_WS/14335.0106_Kaftan_Saldivia.pdf))
+**The Political System of Germany** (Seminar, winter 2018/2019, University of Cologne, [detailed course description and syllabus](https://cccp.uni-koeln.de/sites/cccp/Lehre/2018-19_WS/14335.0106_Kaftan_Saldivia.pdf))
 
 # School level
 
