@@ -3,7 +3,7 @@ date: "2018-10-01 09:00:00"
 title: Research agenda
 ---
 
-## Data Linkage for the Political Sciences and Community Encouragement
+## Harmony in the Democratic Ideological Space
 
 The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS will enhance the integration of new party and voter data into the newly designed online tool called PolPaL. It will also harmonise data, streamlining access for researchers and ensuring long-term collaboration in democracy studies. The project also contributes to the long-term sustainability of such databases by aligning with the European Research Infrastructure (RI) Monitoring Electoral Democracy (MEDem).
 For more information, [click here](https://oscars-project.eu/projects/hardis-harmony-democratic-ideological-space).
@@ -30,7 +30,7 @@ This project is based on my dissertation and studies the extent to which Europea
 
 ### Current working papers
 
-_title hidden for review_, revise and resubmit with _Political Studies_
+_title hidden for review_, conditionally accepted by _Political Studies_
 
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
@@ -66,7 +66,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 ### Current working papers
 
-_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, revise and resubmit with _European Journal of Political Research_
+_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, forthcoming with _European Journal of Political Research_
 
 
 ## Decentralization and Electoral Geographies -- finished
