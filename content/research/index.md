@@ -14,7 +14,7 @@ For more information, [click here](https://oscars-project.eu/projects/hardis-har
 
 "Above and Beyond. Expanding linkage possibilities for data on political parties", together with Paul Bederke, Jakob Mansius, and Selçuk Timur Uluer.
 
-## European Citizens' and Parties' Attitudes towards Liberal Democracy
+## European Citizens' and Parties' Attitudes towards Liberal Democracy -- finished
 
 This project is based on my dissertation and studies the extent to which European democratic systems are supported by their citizens and their political parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties. It aims at revealing the reasons for which citizens and parties defend liberal democracy.
 
@@ -28,9 +28,7 @@ This project is based on my dissertation and studies the extent to which Europea
 
 "Party Competition over Democracy", _Politics and Governance_
 
-### Current working papers
-
-_title hidden for review_, conditionally accepted by _Political Studies_
+"Support for (liberal) democracy among authoritarian, populist, and radical Western Europeans", _Political Studies_
 
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
@@ -64,9 +62,7 @@ This research project has been funded by the Fritz Thyssen foundation  (PI: Sven
 
 "The Rhyme and Reason of Rebel Support: Exploring European Voters' Attitudes Towards Dissident MPs", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _Political Science Research and Methods_
 
-### Current working papers
-
-_title hidden for review_, together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, forthcoming with _European Journal of Political Research_
+"Voices of the Party Base: How Supporters Want Their Established Parties to Respond to New Parties", together with Dominik Duell, Sven-Oliver Proksch, Jonathan Slapin & Christopher Wratil, _European Journal of Political Research_
 
 
 ## Decentralization and Electoral Geographies -- finished
