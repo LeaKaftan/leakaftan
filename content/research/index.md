@@ -5,14 +5,14 @@ title: Research agenda
 
 ## Harmony in the Democratic Ideological Space
 
-The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS will enhance the integration of new party and voter data into the newly designed online tool called PolPaL. It will also harmonise data, streamlining access for researchers and ensuring long-term collaboration in democracy studies. The project also contributes to the long-term sustainability of such databases by aligning with the European Research Infrastructure (RI) Monitoring Electoral Democracy (MEDem).
+The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS will enhance the integration of new party and voter data into the newly designed online tool called [PolPaL](https://polpal.org/). It will also harmonise data, streamlining access for researchers and ensuring long-term collaboration in democracy studies. The project also contributes to the long-term sustainability of such databases by aligning with the European Research Infrastructure (RI) Monitoring Electoral Democracy (MEDem).
 For more information, [click here](https://oscars-project.eu/projects/hardis-harmony-democratic-ideological-space).
 
 ### Current working papers
 
-"It takes a village to maintain a database. Communitizing the provision of public goods for science", together with Paul Bederke and Selçuk Timur Uluer.
+"It takes a village to maintain a database. Communitizing the provision of public goods for science", together with Paul Bederke, Kyra Meyer and Selçuk Timur Uluer.
 
-"Above and Beyond. Expanding linkage possibilities for data on political parties", together with Paul Bederke and Selçuk Timur Uluer.
+"Above and Beyond. Expanding linkage possibilities for data on political parties", together with Paul Bederke, Jakob Mansius, and Selçuk Timur Uluer.
 
 ## European Citizens' and Parties' Attitudes towards Liberal Democracy
 
