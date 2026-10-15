@@ -8,15 +8,20 @@ title: Research agenda
 The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS will enhance the integration of new party and voter data into the newly designed online tool called [PolPaL](https://polpal.org/). It will also harmonise data, streamlining access for researchers and ensuring long-term collaboration in democracy studies. The project also contributes to the long-term sustainability of such databases by aligning with the European Research Infrastructure (RI) Monitoring Electoral Democracy (MEDem).
 For more information, [click here](https://oscars-project.eu/projects/hardis-harmony-democratic-ideological-space).
 
-## Current working papers
+## Work in progress
 
 "It takes a village to maintain a database. Communitizing the provision of public goods for research", together with Kyra Meyer and Selçuk Timur Uluer.
 
 "PolPaL (Political Party Links): Expanding the Linking and Harmonization Infrastructure for Data on Political Parties", together with Paul Bederke, Sarah Bachmeier, Jakob Mansius, and Selçuk Timur Uluer.
 
+
 # European Citizens' and Parties' Attitudes towards Liberal Democracy
 
 This project is based on my dissertation and studies the extent to which European democratic systems are supported by their citizens and their political parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties. It aims at revealing the reasons for which citizens and parties defend liberal democracy.
+
+## Work in progress
+
+"Populist authoritarianism in theory and data", book project, to be submitted to the _Cambridge Elements in Comparative Political Behaviour_ in early 2027
 
 ## Publications
 
@@ -33,11 +38,6 @@ This project is based on my dissertation and studies the extent to which Europea
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
 <!---"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann--->
-
-
-## Work in progress
-
-"Populist authoritarianism in theory and data", book project, to be submitted to the _Cambridge Elements in Comparative Political Behaviour_ in early 2027
 
 
 # Other work in progress
