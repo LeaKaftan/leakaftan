@@ -10,11 +10,11 @@ For more information, [click here](https://oscars-project.eu/projects/hardis-har
 
 ### Current working papers
 
-"It takes a village to maintain a database. Communitizing the provision of public goods for science", together with Paul Bederke, Kyra Meyer and Selçuk Timur Uluer.
+"It takes a village to maintain a database. Communitizing the provision of public goods for research", together with Kyra Meyer and Selçuk Timur Uluer.
 
-"Above and Beyond. Expanding linkage possibilities for data on political parties", together with Paul Bederke, Jakob Mansius, and Selçuk Timur Uluer.
+"PolPaL (Political Party Links): Expanding the Linking and Harmonization Infrastructure for Data on Political Parties", together with Paul Bederke, Sarah Bachmeier, Jakob Mansius, and Selçuk Timur Uluer.
 
-## European Citizens' and Parties' Attitudes towards Liberal Democracy -- finished
+## European Citizens' and Parties' Attitudes towards Liberal Democracy
 
 This project is based on my dissertation and studies the extent to which European democratic systems are supported by their citizens and their political parties. The research in this project is based on several surveys and survey experiments as well as quantitative text analysis of election manifestos and open-ended survey responses. It investigates the support for and conceptions of democracy among European citizens and parties. It aims at revealing the reasons for which citizens and parties defend liberal democracy.
 
@@ -33,6 +33,20 @@ This project is based on my dissertation and studies the extent to which Europea
 <!---"The Battle for Democracy. How Mainstream Parties Defend Liberal Democracy Against Radical Right-Wing Parties' Attacks", together with Jan Schwalbach--->
 
 <!---"Violent Protesters, Violent States. How People Perceive the Legitimacy of Protests and Protest Repression", together with Lennart Schürmann--->
+
+
+### Work in progress
+
+"Populist authoritarianism in theory and data", book project, to be submitted to the _Cambridge Elements in Comparative Political Behaviour_ in early 2027
+
+
+# Other work in progress
+
+_title hidden for review_, co-authored survey experiment with Chitralekha Basu and Jens Wäckerle
+
+"Issue Salience and Bargaining in the Council of the EU", together with Julian Hoerner and Christopher Wratil
+
+"Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll
 
 
 ## Democracy, Anger, and Elite Responses (DANGER) -- finished
@@ -79,10 +93,4 @@ This research project has been funded twice by the German Research Foundation (D
 
 <!--"Party Positions in Newspapers and Legislative Speeches", together with Daniel Felipe Saldivia Gonzatti & Leonce Röth-->
 
-
-## Other work in progress
-
-_title hidden for review_, co-authored survey experiment with Chitralekha Basu and Jens Wäckerle, presented at EPSA in July 2024
-
-"Democracy Talk in Parliamentary Speeches", mixed-methods text analysis together with David Knoll, presented at the DVPW in September 2024
 
