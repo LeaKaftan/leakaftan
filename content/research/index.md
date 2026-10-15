@@ -5,7 +5,8 @@ title: Research agenda
 
 # Harmony in the Democratic Ideological Space
 
-The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. HarDIS has first and foremost develops a new online linking tool called PolPaL, increasing the flexibility with which researchers can link data for different political parties. HarDIS also harmonizes data on citizens’ and parties’ left-right positions, while ensuring long-term collaboration with, and access to this data for democracy researchers. 
+The HarDIS project – Harmony in the Democratic Ideological Space – aims to create a community-based, sustainable, scalable, and FAIR linkage key database. 
+HarDIS has first and foremost develops a new online linking tool called [PolPaL](https://polpal.org), increasing the flexibility with which researchers can link data for different political parties. HarDIS also harmonizes data on citizens’ and parties’ left-right positions, while ensuring long-term collaboration with, and access to this data for democracy researchers. 
 For more information, [click here](https://oscars-project.eu/projects/hardis-harmony-democratic-ideological-space).
 
 ## Work in progress
