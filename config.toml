@@ -53,7 +53,7 @@ weight = 5
   # googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a senior researcher at GESIS — Leibniz-Institute for the Social Sciences, and affiliated with the MEDem project (medem.eu) and my alma mater, the University of Cologne. I am a big fan of democracy, survey research, political elites, and computational social sciences. In my spare time, I train martial arts and love going for hikes."
+  description = "I am a senior researcher at GESIS — Leibniz Institute for the Social Sciences and affiliated with the MEDem project (medem.eu). The University of Cologne is my alma mater. I am a big fan of democracy. As a researcher, I study the preferences and behavior of political elites and citizens using surveys and computational social sciences. As a service provider, I help other researchers to link data on political parties (polpal.org). In my spare time, I train martial arts and love going for hikes."
   mainSection = "publications" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -83,7 +83,7 @@ weight = 5
     name = "linkedin"
     link = "https://www.linkedin.com/in/dr-lea-kaftan-05971468/"
   [[params.social]]
-    name = "bsky"
+    name = "bluesky"
     link = "https://bsky.app/profile/dielea.bsky.social"
   [[params.social]]
     name = "email"
