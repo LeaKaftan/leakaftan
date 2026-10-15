@@ -5,7 +5,7 @@ title: Teaching
 
 # All levels
 
-**Introduction to Computational Text Analysis with R** (3-day Workshop, spring 2024 & 2025, GESIS -- Leibniz-Institut für Sozialwissenschaften)
+**Introduction to Computational Text Analysis with R** (3-day Workshop, spring 2024, 2025 & 2026, GESIS -- Leibniz-Institut für Sozialwissenschaften)
 
 # MA level
 
